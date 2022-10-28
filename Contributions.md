@@ -34,3 +34,8 @@
    Hyderabad
    DSA, Web Dev, JSON, Dance, Cricket etc.
 
+
+7. Sadiya
+   techsadiya
+   Hyderabad
+   DSA, Web Dev, JSON, Dance, Cricket etc.
